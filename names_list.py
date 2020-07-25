@@ -23,7 +23,7 @@ names_list = input_names
 
 #print("\n")
 print("Printing names list")
-print(input_names)
+print(input_names.split("[]"))
 #print("Printing names list")
 #for name in names_list:
     #print(name)
